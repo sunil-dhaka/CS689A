@@ -1,0 +1,74 @@
+Suffix: ों, Count: 751 -- it is correct
+Suffix: ने, Count: 253 -- it is correct many hindi words have this suffix
+Suffix: ियों, Count: 188 -- it seems incorrect, the last character यों is the correct one, but it comes before the suffix ि
+Suffix: ते, Count: 122 -- it is correct many hindi words have this suffix
+Suffix: े, Count: 115 -- it is correct many hindi words have this character as suffix
+Suffix: ा, Count: 115 -- it is correct many hindi words have this character as suffix
+Suffix: कर, Count: 114 -- it seems incorrect, the last character र is the correct one, but it comes before the suffix क
+Suffix: ओं, Count: 114 -- it is correct many hindi words have this suffix, it is palural form
+Suffix: ना, Count: 112 -- it is correct many hindi words have this suffix
+Suffix: ें, Count: 110 -- it is correct many hindi words have this suffix
+Suffix: ी, Count: 93 -- it is correct many hindi words have this suffix
+Suffix: या, Count: 72 -- it is correct many hindi words have this suffix, like kamaya (earned) or kahaya (said)
+Suffix: ती, Count: 66 -- it is correct many hindi words have this suffix, it is feminine form of ता
+Suffix: ता, Count: 60 -- it is correct many hindi words have this suffix, it is masculine form of ती
+Suffix: ए, Count: 56 -- it is correct many hindi words have this suffix
+Suffix: ियां, Count: 55 -- it seems incorrect, the last character यां is the correct one, but it comes before the suffix ि
+Suffix: एं, Count: 54 -- it is correct many hindi words have this suffix, to make form palural we can use suffix एं 
+Suffix: ़, Count: 49 -- it comes everywhere in the text, from that sense it is not a suffix
+Suffix: ई, Count: 45 -- it is correct many hindi words have this suffix, like बई 
+Suffix: ्स, Count: 39 -- it seems incorrect, the last character स is the correct one, but it comes before the suffix ्
+Suffix: ेंगे, Count: 34 -- it is correct many hindi words have this suffix, like बचेंगे (will save)
+Suffix: नी, Count: 31 -- it is correct many hindi words have this suffix, it is feminine form of ना, like मोर्नी
+Suffix: यों, Count: 30 -- it is correct many hindi words have this suffix, it is palural form of या, like कुमारियों
+Suffix: ़ी, Count: 28 -- it is correct many hindi words have this suffix, it is feminine form of ़ा, like ब़ाज़ारी
+Suffix: ेगा, Count: 28 -- it seems incorrect, the last character गा is the correct one, but it comes before the suffix े, like बचेगा (will save)
+Suffix: ़े, Count: 25 -- it is correct many hindi words have this suffix, it is feminine form of ़ा, like ब़ाज़ारे
+Suffix: ़ा, Count: 24 -- it comes everywhere in the text, from that sense it is not a suffix
+Suffix: ेगी, Count: 22 -- it seems incorrect, the last character गी is the correct one, but it comes before the suffix े, like बचेगी (will save)
+Suffix: ो, Count: 22 -- it is correct many hindi words have this suffix, like बचो (save)
+Suffix: ीं, Count: 19 -- it is correct many hindi words have this suffix, like बचीं (saved)
+Suffix: एंगे, Count: 18 -- it is correct many hindi words have this suffix, like बचेंगे (will save)
+Suffix: ियाँ, Count: 18 -- it seems incorrect, the last character याँ is the correct one, but it comes before the suffix ि
+Suffix: एगा, Count: 16 -- it is correct many hindi words have this suffix, like बचेगा (will save)
+Suffix: एगी, Count: 13 -- it is correct many hindi words have this suffix, like बचेगी (will save)
+Suffix: ़ने, Count: 13 -- it is correct many hindi words have this suffix, like ब़ाज़ारने (to sell)
+Suffix: ,०००, Count: 12 -- it is incorrect from language perspective but it comes in numerals, like १,०००,००० (one million)
+Suffix: ेंगी, Count: 11 -- it is correct many hindi words have this suffix, like बचेंगी (will save)
+Suffix: यां, Count: 11 -- it is correct many hindi words have this suffix, it is feminine form of या, like कुमारियां
+Suffix: ये, Count: 9 -- it is correct many hindi words have this suffix, it is feminine form of या, like कुमारिये
+Suffix: यी, Count: 9 -- it seems correct, but I can not find that many example of this suffix, it is feminine form of या, like कुमारियी
+Suffix: एँ, Count: 9  -- it is correct many hindi words have this suffix, like बचें (will save)
+Suffix: तीं, Count: 9 -- it is correct many hindi words have this suffix, it is feminine form of ता, like बचतीं (saved)
+Suffix: इयों, Count: 8 -- it is correct many hindi words have this suffix, it is palural form of इया, like बचाइयों (saved)
+Suffix: ंस, Count: 7 -- it seems incorrect, the last character स is the correct one, but it comes before the suffix ं
+Suffix: ़ों, Count: 6 -- it is correct many hindi words have this suffix, it is palural form of ़ा, like ब़ाज़ारों
+Suffix: ज, Count: 6 -- it is correct many hindi words have this suffix, like बचाज (saved)
+Suffix: एंगी, Count: 5 -- it is correct many hindi words have this suffix, like बचेंगी (will save)
+Suffix: ़ियों, Count: 5 -- it is correct many hindi words have this suffix, it is palural form of ़िया, like ब़ाज़ारियों
+Suffix: ़कर, Count: 5 -- it is correct many hindi words have this suffix, like ब़ाज़ारकर (to sell)
+Suffix: गा, Count: 4 -- it is correct many hindi words have this suffix, like bachega write it in hindi and you will see it is correct
+
+--------------------
+One can notice that we have many useful suffixes from the whole corpus.
+For example we see that the suffix like
+िया
+ियों 
+ियाँ 
+िये 
+ियी 
+ियां 
+can be used to create different form of the word, like बचाइया (saved), बचाइयों (saved), बचाइयाँ (saved), बचाइये (saved), बचाइयी (saved), बचाइयां (saved)
+
+similarly we have
+़ा
+़े
+़ी
+़ों
+़ने
+़ीं
+़े
+can be used to create different form of the word, like ब़ाज़ारा (sold), ब़ाज़ारे (sold), ब़ाज़ारी (sold), ब़ाज़ारों (sold), ब़ाज़ारने (sold), ब़ाज़ारीं (sold), ब़ाज़ारे
+--------------------
+
+Even from a small news article we can see that these suffixes are very useful to create different form of the word.
